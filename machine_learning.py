@@ -1,3 +1,4 @@
+## Predecir la posición de una canción del ranking de Spotify
 date='2017-01-01'  ###2017-03-01 existen nans
 
 ####TOP por fecha y pais

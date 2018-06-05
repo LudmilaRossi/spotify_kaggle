@@ -1,3 +1,4 @@
+## Verificar el porcentaje de error y de confianza del modelo de entrenamiento
 import pandas as pd
 import numpy as np
 
